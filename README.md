@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##Formação acadêmica
+
+Sou formado em engenharia de eletrônica e pós-graduado em inteligência artificial
